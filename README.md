@@ -1,3 +1,4 @@
+````
 valtric/
 ├── backend/
 │   ├── app/
@@ -127,3 +128,5 @@ Audit: log prompt, model, latency, token counts, and cost per analysis as JSON.
 Multi-tenant: every table gets org_id. Use RLS if you go Supabase; otherwise enforce in queries.
 
 codex resume 0199dfcc-bdff-7683-81de-a87e4c25adc5
+
+````
