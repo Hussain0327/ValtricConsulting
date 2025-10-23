@@ -1,0 +1,3 @@
+{"name": "baseline_no_evidence", "payload": {"deal_id": 13, "question": "Is this valuation reasonable? Strict JSON."}, "expectations": {"min_citations": 0, "require_no_citable_flag": true, "max_confidence": 0.5}}
+{"name": "fx_comparison", "payload": {"deal_id": 13, "question": "Price USD 1.2M, EBITDA 0.2M. Compare with EUR SaaS comps and flag FX risks. Strict JSON; cite chunk ids."}, "expectations": {"min_citations": 1}}
+{"name": "multi_year", "payload": {"deal_id": 13, "question": "Build 2025-2027 EV/EBITDA scenarios with churn/NRR assumptions. Retrieval required. Strict JSON; cite chunk ids."}, "expectations": {"min_citations": 1, "min_confidence": 0.4}}

@@ -1,0 +1,11 @@
+{
+  "name": "valtric-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Frontend scaffold for Valtric Consulting platform.",
+  "scripts": {
+    "dev": "echo TODO: configure Vite or Next.js dev script",
+    "build": "echo TODO: configure build script",
+    "test": "echo TODO: configure test runner"
+  }
+}
